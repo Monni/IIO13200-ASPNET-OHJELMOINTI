@@ -1,4 +1,5 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="ShowPhotos.aspx.cs" Inherits="ShowPhotos" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="ShowPhotos.aspx.cs" 
+    Inherits="ShowPhotos" %>
 
 <!DOCTYPE html>
 
