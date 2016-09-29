@@ -26,6 +26,7 @@
                 Esimerkki kuinka koodissa rakennetaan HTML:ää
                 <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/ShowCustomers.aspx">Show WineCustomers</asp:HyperLink>
             </p>
+<<<<<<< HEAD
             <p>
                 To 29.09.2016
                 <a href="FordMustang.aspx">Demo responsiivinen sivu</a>
@@ -34,6 +35,13 @@
             <table><tr>
                 <th></th>
                    </tr></table>
+=======
+            <h2>
+                22.9.2016
+            </h2>
+            <h3>Tiedon välitys sivulta toiselle:</h3>
+            <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/ClassDemo03.aspx">Tiedon välitys</asp:HyperLink>
+>>>>>>> origin/master
         </div>
 
     </asp:Content>
