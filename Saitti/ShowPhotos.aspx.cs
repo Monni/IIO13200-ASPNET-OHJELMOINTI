@@ -34,9 +34,9 @@ public partial class ShowPhotos : System.Web.UI.Page
         }
         return photos;
       }
-      catch (Exception ex)
+      catch (Exception e)
       {
-        throw;
+        throw e;
       }
     }
 }
